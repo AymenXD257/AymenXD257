@@ -118,3 +118,9 @@
 <p align="center">
   <i>Always learning. Always building. 🔥</i>
 </p>
+
+## 🎓 Certifications
+
+### IBM SkillsBuild
+**Getting Started with Generative AI** — IBM SkillsBuild  
+[🔗 View Credential on Credly](https://www.credly.com/badges/3ff246c5-27ea-4cee-a080-90d8a0bdec2e/public_url)
