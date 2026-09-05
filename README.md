@@ -121,6 +121,10 @@
 
 ## 🎓 Certifications
 
+### Harvard University
+**CS50x: CS50's Introduction to Computer Science** — Harvard University  
+[🔗 View Official Certificate](https://cs50.harvard.edu/certificates/296d3841-0672-4bfa-bc99-ac5962ff2db5)
+
 ### IBM SkillsBuild
 **Getting Started with Generative AI** — IBM SkillsBuild  
 [🔗 View Credential on Credly](https://www.credly.com/badges/3ff246c5-27ea-4cee-a080-90d8a0bdec2e/public_url)
